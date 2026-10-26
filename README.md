@@ -48,7 +48,7 @@ product does and how it was built.
 ## Demo
 
 <p align="center">
-  <a href="media/cliplab-demo.mp4"><img src="images/demo-poster.jpg" alt="Watch the 1-minute ClipLab Pro demo" width="720"></a>
+  <a href="https://cdn.jsdelivr.net/gh/efenn-dev/cliplab-showcase@d7f3b542d16e948d49606a2d7bf762e8fc1d448f/media/cliplab-demo.mp4"><img src="images/demo-poster.jpg" alt="Watch the 1-minute ClipLab Pro demo" width="720"></a>
 </p>
 
 One minute, recorded in the app on real Rocket League footage: set up a project, then
